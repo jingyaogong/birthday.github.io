@@ -1,3 +1,3 @@
 # birthday.github.io
 
-for cxm 2023
+for cxm 2023-07
